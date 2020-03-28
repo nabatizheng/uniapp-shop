@@ -1,0 +1,21 @@
+
+.scroll-content.data-v-03f0f860{
+	width: 100%;
+	height: 80rpx;
+	white-space: nowrap;
+}
+.scroll-item.data-v-03f0f860{
+	display: inline-block;
+	padding:10rpx 30rpx;
+	font-size:32rpx;
+}
+.f-active-color.data-v-03f0f860{
+	padding:10rpx 0;
+	border-bottom:6rpx solid #49BDFB;
+}
+.load-text.data-v-03f0f860{
+	border-top:2rpx solid #636263;
+	line-height: 60rpx;
+	text-align: center;
+}
+

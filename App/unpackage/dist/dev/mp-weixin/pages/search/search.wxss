@@ -1,0 +1,23 @@
+
+.search-item.data-v-7dbb9caa{
+	padding:20rpx;
+}
+.search-title.data-v-7dbb9caa{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.search-name.data-v-7dbb9caa{
+	padding:4rpx 24rpx;
+	background-color: #E1E1E1;
+	display: inline-block;
+	border-radius: 26rpx;
+	margin:10rpx;
+}
+.search-end.data-v-7dbb9caa{
+	text-align: center;
+}
+

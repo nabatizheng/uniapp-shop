@@ -1,0 +1,13 @@
+
+.shop-big.data-v-411739dc{
+	width:100%;
+	height: 350rpx;
+}
+.scroll-content.data-v-411739dc{
+	width: 100%;
+	white-space: nowrap;
+}
+.scroll-item.data-v-411739dc{
+	display: inline-block;
+}
+
